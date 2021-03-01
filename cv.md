@@ -124,7 +124,7 @@
                 </div>
             </div>
         </main>
-            <!-- Sidebar section -->
+            <!-- Sidebar sectiion -->
         <aside class="side-bar">
             <img class ="main-photo" src="img/photo_2021-02-11_20-57-38.jpg" alt="Handsome boy">
 
